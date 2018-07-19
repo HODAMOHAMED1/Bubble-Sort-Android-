@@ -1,4 +1,4 @@
-package com.example.hodaco.bubblesorting_app.Bubble_Sorting.pojos;
+package com.example.hodaco.bubblesorting_app.Bubble_Sorting.Home.Show_Data.pojos;
 
 import java.io.Serializable;
 
